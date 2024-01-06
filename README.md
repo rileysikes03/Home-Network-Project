@@ -50,19 +50,35 @@ Set up the Server and Printers reserved IP adresses by using their MAC addresses
 <img src="https://i.imgur.com/fv9UVcT.png" height="80%" width="80%" alt="Home Network Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Home Network Steps"/>
+Next create the wireless network and setup the security using WPA2:  <br/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Home Network Steps"/>
+<img src="https://i.imgur.com/wLLGQxU.png" height="80%" width="80%" alt="Home Network Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Home Network Steps"/>
+<img src="https://i.imgur.com/f4Daun0.png" height="80%" width="80%" alt="Home Network Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Home Network Steps"/>
+Quick example of setting up a guest network for a group of laptops to join:  <br/>
+<br />
+<br />
+<img src="https://i.imgur.com/MyixWwp.png" height="80%" width="80%" alt="Home Network Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/kuC3Hql.png" height="80%" width="80%" alt="Home Network Steps"/>
+<br />
+<br />
+And one final example of MAC filtering by using the laptop MAC adresses and filtering them from joining:  <br/>
+<br />
+<br />
+<img src="https://i.imgur.com/cgqasHF.png" width="80%" alt="Home Network Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/obc7p0N.png" height="80%" width="80%" alt="Home Network Steps"/>
+<br />
+<br />
+Final image of the Network in full effect (without MAC Filtering):  <br/>
+<br />
+<br />  
+<img src="https://i.imgur.com/3XWFhST.png" height="80%" width="80%" alt="Home Network Steps"/>
 </p>
-<img src="" height="80%" width="80%" alt="Home Network Steps"/>
