@@ -1,6 +1,6 @@
 # Home-Network-Project
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This Cisco Packet Tracer-based home network project features a well-structured setup where a computer, printer, and server are individually linked to the router via Ethernet connections. Additionally, three laptops access a guest wireless WiFi. To fortify the network's security, both the wired and wireless segments are safeguarded using WPA2 Personal encryption. Furthermore, MAC Filtering was employed to restrict internet access for the laptops based on their respective MAC addresses, ensuring a controlled and secure network environment.
 <br />
 
 
@@ -23,7 +23,7 @@ Launch the utility: <br/>
 <img src="https://i.imgur.com/8q8xOXJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Place the network topology. Then connect the computer to the network and set the password and number of devices allowed on the network:  <br/>
+Place the network topology such as the printer, server, and computer. Then connect the computer to the network via ethernet and set the password and number of devices allowed on the network:  <br/>
 <br />
 <br />
 <img src="https://i.imgur.com/k6Uf8to.png" height="80%" width="80%" alt="Home Network Steps"/>
@@ -38,7 +38,7 @@ Place the network topology. Then connect the computer to the network and set the
 <img src="https://i.imgur.com/fv9UVcT.png" height="80%" width="80%" alt="Home Network Steps"/>
 <br />
 <br />
-Set up the Server and Printers reserved IP adresses by using their MAC addresses: <br/>
+Next, Set up the individual reserved IP addresses for the Server and Printer by using their MAC addresses: <br/>
 <br />
 <br />
 <img src="https://i.imgur.com/m5KljZh.png" height="80%" width="80%" alt="Home Network Steps"/>
@@ -50,7 +50,7 @@ Set up the Server and Printers reserved IP adresses by using their MAC addresses
 <img src="https://i.imgur.com/fv9UVcT.png" height="80%" width="80%" alt="Home Network Steps"/>
 <br />
 <br />
-Next create the wireless network and setup the security using WPA2:  <br/>
+Next create the wireless network and setup the security using WPA2 Personal:  <br/>
 <br />
 <br />
 <img src="https://i.imgur.com/wLLGQxU.png" height="80%" width="80%" alt="Home Network Steps"/>
@@ -68,7 +68,7 @@ Quick example of setting up a guest network for a group of laptops to join:  <br
 <img src="https://i.imgur.com/kuC3Hql.png" height="80%" width="80%" alt="Home Network Steps"/>
 <br />
 <br />
-And one final example of MAC filtering by using the laptop MAC adresses and filtering them from joining:  <br/>
+And one final example of MAC filtering by using the laptop MAC addresses and filtering them from joining the 2.4GHz network:  <br/>
 <br />
 <br />
 <img src="https://i.imgur.com/cgqasHF.png" width="80%" alt="Home Network Steps"/>
