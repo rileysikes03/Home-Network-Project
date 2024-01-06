@@ -4,16 +4,17 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2> Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Command Prompt</b> 
+- <b>TextEdit</b>
+- <b>Cisco Packet Tracer</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>MacOS Sonoma</b> (21H2)
 
-<h2>Program walk-through:</h2>
+<h2>Building the network through steps:</h2>
 
 <p align="center">
 Launch the utility: <br/>
