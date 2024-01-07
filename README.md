@@ -43,11 +43,10 @@ Next, Set up the individual reserved IP addresses for the Server and Printer by 
 <br />
 <img src="https://i.imgur.com/m5KljZh.png" height="80%" width="80%" alt="Home Network Steps"/>
 <br />
-<br />
 <img src="https://i.imgur.com/9n2hTa0.png" height="80%" width="80%" alt="Home Network Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/fv9UVcT.png" height="80%" width="80%" alt="Home Network Steps"/>
+<img src="https://i.imgur.com/kDLIwFi.png" height="80%" width="80%" alt="Home Network Steps"/>
 <br />
 <br />
 Next create the wireless network and setup the security using WPA2 Personal:  <br/>
