@@ -19,12 +19,10 @@ This Cisco Packet Tracer-based home network project features a well-structured s
 <p align="center">
 Launch the utility: <br/>
 <br />
-<br />
 <img src="https://i.imgur.com/8q8xOXJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Place the network topology such as the printer, server, and computer. Then connect the computer to the network via ethernet and set the password and number of devices allowed on the network:  <br/>
-<br />
 <br />
 <img src="https://i.imgur.com/k6Uf8to.png" height="80%" width="80%" alt="Home Network Steps"/>
 <br />
@@ -40,8 +38,7 @@ Place the network topology such as the printer, server, and computer. Then conne
 <br />
 Next, Set up the individual reserved IP addresses for the Server and Printer by using their MAC addresses: <br/>
 <br />
-<br />
-<img src="https://i.imgur.com/m5KljZh.png" height="80%" width="80%" alt="Home Network Steps"/>
+<img src="https://i.imgur.com/iDtkCLe.png" height="80%" width="80%" alt="Home Network Steps"/>
 <br />
 <img src="https://i.imgur.com/9n2hTa0.png" height="80%" width="80%" alt="Home Network Steps"/>
 <br />
@@ -49,8 +46,7 @@ Next, Set up the individual reserved IP addresses for the Server and Printer by 
 <img src="https://i.imgur.com/kDLIwFi.png" height="80%" width="80%" alt="Home Network Steps"/>
 <br />
 <br />
-Next create the wireless network and setup the security using WPA2 Personal:  <br/>
-<br />
+Following that, create the wireless network and setup the security using WPA2 Personal:  <br/>
 <br />
 <img src="https://i.imgur.com/wLLGQxU.png" height="80%" width="80%" alt="Home Network Steps"/>
 <br />
@@ -60,7 +56,6 @@ Next create the wireless network and setup the security using WPA2 Personal:  <b
 <br />
 Quick example of setting up a guest network for a group of laptops to join:  <br/>
 <br />
-<br />
 <img src="https://i.imgur.com/MyixWwp.png" height="80%" width="80%" alt="Home Network Steps"/>
 <br />
 <br />
@@ -69,7 +64,6 @@ Quick example of setting up a guest network for a group of laptops to join:  <br
 <br />
 And one final example of MAC filtering by using the laptop MAC addresses and filtering them from joining the 2.4GHz network:  <br/>
 <br />
-<br />
 <img src="https://i.imgur.com/cgqasHF.png" width="80%" alt="Home Network Steps"/>
 <br />
 <br />
@@ -77,7 +71,6 @@ And one final example of MAC filtering by using the laptop MAC addresses and fil
 <br />
 <br />
 Final image of the Network in full effect (without MAC Filtering):  <br/>
-<br />
 <br />  
 <img src="https://i.imgur.com/3XWFhST.png" height="80%" width="80%" alt="Home Network Steps"/>
 </p>
